@@ -60,3 +60,7 @@ The Hadoop build process is no easy task - requires lots of libraries and their 
 ## Automate everything
 
 As we have mentioned previousely, a Docker file was created and released in the official [Docker repository](https://registry.hub.docker.com/u/sequenceiq/hadoop-docker/)
+
+## Chinese users notice
+
+You can use Dockerfile_CN to build your image.
