@@ -63,4 +63,4 @@ As we have mentioned previousely, a Docker file was created and released in the 
 
 ## Chinese users notice
 
-You can use Dockerfile_CN to build your image.
+You can use Dockerfile_CN to build your image.Please visit:https://github.com/JeryZeng/hadoop-docker
